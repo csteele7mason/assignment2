@@ -1,6 +1,6 @@
 ---
 title: "Lab 1 - Reproducible research with RMarkdown and Github"
-author: "Fill in your full name"
+author: "Colby Steele"
 date: "`r Sys.Date()`"
 documentclass: article
 geometry: margin=1in
